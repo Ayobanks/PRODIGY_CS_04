@@ -1,4 +1,5 @@
 🧠 Basic Keylogger (Python)
+
 A simple Python-based keylogger that records and logs keystrokes.
 This project is intended for educational purposes only — to help you understand how keystroke logging works under the hood using Python.
 
